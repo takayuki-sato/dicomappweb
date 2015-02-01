@@ -1,0 +1,4 @@
+{
+	"name": "dicomappweb",
+	"dojoBuild": "package.js"
+}
